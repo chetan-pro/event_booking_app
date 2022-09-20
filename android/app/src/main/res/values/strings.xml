@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basalon</string>
+    <string name="facebook_app_id">604143361013658</string>
+    <string name="fb_login_protocol_scheme">fb604143361013658</string>
+    <string name="facebook_client_token">7709a6b91a468f0cb50d9faf1ed290e3</string>
+</resources>

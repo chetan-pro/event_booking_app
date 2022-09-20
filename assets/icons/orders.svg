@@ -1,0 +1,8 @@
+<svg id="Orders" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="calendar">
+    <rect id="Rectangle_298" data-name="Rectangle 298" width="24" height="24" fill="#152a65" opacity="0"/>
+    <path id="Path_1114" data-name="Path 1114" d="M18,4H17V3a1,1,0,0,0-2,0V4H9V3A1,1,0,0,0,7,3V4H6A3,3,0,0,0,3,7V19a3,3,0,0,0,3,3H18a3,3,0,0,0,3-3V7a3,3,0,0,0-3-3ZM6,6H7V7A1,1,0,0,0,9,7V6h6V7a1,1,0,0,0,2,0V6h1a1,1,0,0,1,1,1v4H5V7A1,1,0,0,1,6,6ZM18,20H6a1,1,0,0,1-1-1V13H19v6A1,1,0,0,1,18,20Z" fill="#152a65"/>
+    <circle id="Ellipse_101" data-name="Ellipse 101" cx="1" cy="1" r="1" transform="translate(7 15)" fill="#152a65"/>
+    <path id="Path_1115" data-name="Path 1115" d="M16,15H12a1,1,0,0,0,0,2h4a1,1,0,0,0,0-2Z" fill="#152a65"/>
+  </g>
+</svg>

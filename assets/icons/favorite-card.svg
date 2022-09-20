@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="32" viewBox="0 0 31 32">
+  <g id="Favorite_in_card" data-name="Favorite in card" transform="translate(0.176 0.282)">
+    <ellipse id="Ellipse_117" data-name="Ellipse 117" cx="15.5" cy="16" rx="15.5" ry="16" transform="translate(-0.176 -0.282)" fill="#fff"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(4.366 5.239)">
+      <g id="heart" transform="translate(0 0)">
+        <rect id="Rectangle_297" data-name="Rectangle 297" width="22" height="23" transform="translate(0.458 0.479)" opacity="0"/>
+        <path id="Path_1113" data-name="Path 1113" d="M11.642,20.391a.964.964,0,0,1-.685-.28l-7.492-7.5A5.045,5.045,0,1,1,10.6,5.475l1.041,1.041,1.041-1.041a5.045,5.045,0,1,1,7.135,7.135l-7.492,7.5a.964.964,0,0,1-.685.28ZM7.033,5.928a3.085,3.085,0,0,0-2.2.906,3.124,3.124,0,0,0,0,4.406l6.807,6.817,6.807-6.817a3.124,3.124,0,0,0,0-4.406,3.2,3.2,0,0,0-4.4,0L12.326,8.57a.964.964,0,0,1-1.369,0L9.231,6.835a3.085,3.085,0,0,0-2.2-.906Z" transform="translate(-0.6 0.051)"/>
+      </g>
+    </g>
+  </g>
+</svg>

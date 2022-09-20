@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "121185837499",
+    "project_id": "basalon-b4710",
+    "storage_bucket": "basalon-b4710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121185837499:android:b729cd1e1a1062554ae49e",
+        "android_client_info": {
+          "package_name": "il.co.basalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121185837499-jjk4lo2tk7831poc62ncb7stksqrqti2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANPuWndJIbNyF9zxLQ424y3f6e8sr0mpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121185837499-jjk4lo2tk7831poc62ncb7stksqrqti2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121185837499-eleb57v0kdkgeinp2ad1f48m5cs9hil1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "il.co.basalon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

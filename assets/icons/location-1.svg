@@ -1,0 +1,11 @@
+<svg id="location_icon_1" data-name="location icon 1" xmlns="http://www.w3.org/2000/svg" width="110" height="110" viewBox="0 0 110 110">
+  <circle id="Ellipse_107" data-name="Ellipse 107" cx="55" cy="55" r="55" fill="#fff" opacity="0.43"/>
+  <circle id="Ellipse_118" data-name="Ellipse 118" cx="41" cy="41" r="41" transform="translate(14 14)" fill="#fff" opacity="0.43"/>
+  <g id="Layer_2" data-name="Layer 2" transform="translate(13.75 13.75)">
+    <g id="pin">
+      <rect id="Rectangle_329" data-name="Rectangle 329" width="82" height="82" transform="translate(0.25 0.25)" fill="#e96c60" opacity="0"/>
+      <ellipse id="Ellipse_106" data-name="Ellipse 106" cx="5" cy="5.5" rx="5" ry="5.5" transform="translate(36.25 27.25)" fill="#e96c60"/>
+      <path id="Path_1126" data-name="Path 1126" d="M31.5,2A27.5,27.5,0,0,0,4,29.225c0,18.835,24.234,39.8,25.265,40.7a3.437,3.437,0,0,0,4.469,0C34.936,69.029,59,48.061,59,29.224A27.5,27.5,0,0,0,31.5,2Zm0,37.811A12.031,12.031,0,1,1,43.53,27.78,12.031,12.031,0,0,1,31.5,39.811Z" transform="translate(9.751 4.876)" fill="#e96c60"/>
+    </g>
+  </g>
+</svg>
